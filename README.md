@@ -10,7 +10,9 @@
 ## 依赖环境：
   python3
   
-  requests==2.19.1
+  python2也不是不能用，如果歌单里有泽野弘之的歌就会出现编码错误
+  
+  requests==2.20.0
   
   如果提示没有安装requests，请执行
   
